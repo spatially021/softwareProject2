@@ -31,4 +31,4 @@ void loop() {
 int toggle_state(int toggle){
   if(toggle==1) return 0;
   else return 1;
-}
+}   
